@@ -1,6 +1,6 @@
-#支持私库
 mysql
 redis
 nacos/nacos-server
 nginx
 seataio/seata-server
+rabbitmq
