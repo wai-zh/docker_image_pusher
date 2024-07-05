@@ -3,3 +3,4 @@ mysql
 redis
 nacos/nacos-server
 nginx
+seataio/seata-server
